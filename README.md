@@ -1,4 +1,4 @@
-### Hi there 👋
+###$ Hi, im a Full-stack Junior Developer 👋
 
 <!--
 **Leon-Moraes/Leon-Moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+{{ LANGUAGE_TEMPLATE_START }}
+{{ LANGUAGE_NAME }}
+{{ LANGUAGE_PERCENT }}
+{{ LANGUAGE_COLOR }}
+{{ LANGUAGE_TEMPLATE_END }}
