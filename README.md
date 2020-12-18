@@ -1,4 +1,4 @@
-###$ Hi, im a Full-stack Junior Developer 👋
+#### Hi, im a Full-stack Junior Developer 👋
 
 <!--
 **Leon-Moraes/Leon-Moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
