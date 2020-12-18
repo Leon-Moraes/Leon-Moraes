@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leon-moraes&show_icons=true&locale=en&layout=compact" alt="leon-moraes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leon-moraes&show_icons=true&locale=en" alt="leon-moraes" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leon-moraes&" alt="leon-moraes" /></p>
